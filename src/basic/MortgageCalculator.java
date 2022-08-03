@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class MortgageCalculator {
 
    public static void main(String[] args) {
-      // create Scanner class object to read input
+      // input
       Scanner scan = new Scanner(System.in);
       
       // variables
